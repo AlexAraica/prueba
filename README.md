@@ -1,8 +1,8 @@
-##Radar 
+## Radar 
 [Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_radar.html)
-##Pie
+## Pie
 [Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_pie.html)
-##Barras
+## Barras
 [Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_barras.html)
 
 
