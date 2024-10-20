@@ -4,5 +4,9 @@
 ## indicadores por ciudad
 [Ver mi gráfico](https://alexaraica.github.io/prueba/indicadores_por_ciudad.html)
 
+## LINEAS CASO3
+
+[Ver mi gráfico](https://alexaraica.github.io/prueba/combinadoF.html)
+
 
 
