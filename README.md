@@ -8,5 +8,10 @@
 
 [Ver mi gráfico](https://alexaraica.github.io/prueba/combinadoF.html)
 
+## passteles
 
+[Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_pastel_2019.html)
 
+[Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_pastel_2021.html)
+
+[Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_pastel_2023.html)
