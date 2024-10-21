@@ -10,8 +10,8 @@
 
 ## passteles
 
-[Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_pastel_2019.html)
+[Ver mi gráfico](https://alexaraica.github.io/cobertura_2019.html)
 
-[Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_pastel_2021.html)
+[Ver mi gráfico](https://alexaraica.github.io/prueba/cobertura_2021.html)
 
-[Ver mi gráfico](https://alexaraica.github.io/prueba/grafico_pastel_2023.html)
+[Ver mi gráfico](https://alexaraica.github.io/prueba/gcobertura_2023.html)
