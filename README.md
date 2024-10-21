@@ -10,7 +10,7 @@
 
 ## passteles
 
-[Ver mi gráfico](https://alexaraica.github.io/cobertura_2019.html)
+[Ver mi gráfico](https://alexaraica.github.io/prueba/cobertura_2019.html)
 
 [Ver mi gráfico](https://alexaraica.github.io/prueba/cobertura_2021.html)
 
