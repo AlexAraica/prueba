@@ -14,4 +14,4 @@
 
 [Ver mi gráfico](https://alexaraica.github.io/prueba/cobertura_2021.html)
 
-[Ver mi gráfico](https://alexaraica.github.io/prueba/gcobertura_2023.html)
+[Ver mi gráfico](https://alexaraica.github.io/prueba/cobertura_2023.html)
